@@ -1,0 +1,2 @@
+D:\C++ program\cs_c\x64\Debug\cs_c.exe
+D:\C++ program\cs_c\x64\Debug\cs_c.pdb

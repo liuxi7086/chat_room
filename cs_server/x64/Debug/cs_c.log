@@ -1,0 +1,3 @@
+﻿  cs_c.cpp
+D:\C++ program\cs_c\cs_c.cpp(87,27): warning C4018: “<”: 有符号/无符号不匹配
+  cs_c.vcxproj -> D:\C++ program\cs_c\x64\Debug\cs_c.exe
